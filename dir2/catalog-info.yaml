@@ -13,7 +13,7 @@ metadata:
       title: Moda App Homepage
       icon: dashboard
 spec:
-  type: website
+  type: service
   lifecycle: staging
   owner: moda-team
   system: public-websites
