@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: moda-app-homepage2
+  name: moda-app-homepage3
   description: Moda App Homepage
   annotations:
     backstage.io/kubernetes-namespace: moda-app-homepage-staging
